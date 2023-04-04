@@ -68,7 +68,7 @@ export const AppTabs = () => {
                 tabBarStyle: {
                     backgroundColor: themeColor.sectionBackground,
                     borderTopWidth: 0,
-                    borderTopLeftRadius: wp(40),
+                    borderTopLeftRadius: wp(41),
                     borderTopRightRadius: wp(40)
                 },
                 tabBarActiveTintColor: themeColor.buttonPrimary,
